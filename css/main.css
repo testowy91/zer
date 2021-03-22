@@ -679,7 +679,7 @@ img {
     font-size: calc(1.2rem + 1vw);
   }
 }
-@media (min-width: 1025px) {
+@media (min-width: 900px) {
   .box {
     width: 400px;
     min-height: 450px;
