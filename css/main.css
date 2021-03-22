@@ -677,7 +677,7 @@ img {
 @media (min-width: 768px) {
   .box {
     width: 400px;
-    height: 400px;
+    min-height: 400px;
   }
 
   .box__name {
@@ -701,7 +701,7 @@ img {
 @media (min-width: 1440px) {
   .box {
     width: 400px;
-    height: 400px;
+    min-height: 400px;
     padding: 20px 30px;
   }
 }
